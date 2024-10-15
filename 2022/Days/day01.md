@@ -8,6 +8,30 @@ canonical_url: null
 id: 1048731
 date: '2022-04-17T10:12:40Z'
 ---
+## Andrew's Notes!
+
+DevOps is a software development mindset/pipeline based on CI/CD (Continuous Integration Continuous Deployment). It seeks to align the Development and Operations halves of the software development cycle. 
+
+Development: Code gets planned and produced.
+Operations: Code gets tested and deployed. Think VMs, networking, servers, containers -- whatever is needed to test run the code in a production environment.
+
+It's symbolized by this infinity sign diagram, also known as the DevOps CI/CD pipeline: ![image](https://github.com/user-attachments/assets/03f22651-8106-4432-99a6-e2a924bb5e94)
+
+**Development** starts with 
+1. Planning
+2. Coding - Git Commits
+3. Building - Maven, Gradle
+4. Testing - Selenium
+5. Releasing (this is where it's packaged and then enters the rigorous, hopefully automated Operations segment)
+**Operations** continues with
+6. Deploying - Linux 
+7. Operating - Ansible, Docker (most popular container tool), K8s (container orchestration platform -- operating containers at scale)
+8. Monitoring - Nagios
+
+Then the process cycles -- it's how DevOps software delivery can keep adding features, keep testing, keep scaling, and keep being resilient to faults. What ties this all together is the efficient CI/CD pipeline and **automation**. Automation helps you run functional tests(does the code work?), regression tests (did the code break any preexisting code?), security tests, and performance tests.
+
+Tools for implementing CI/CD pipeline include Jenkins, Github actions, Gitlab CICD. You will need to learn how the CI/CD tools integrate with the other tools to test and deploy code.
+
 
 ## Introduction - Day 1
 
