@@ -40,6 +40,8 @@ While DevOps is the "mindset" or framework, in practice it's more the ability to
 2. Linux (Operating systems, server administration)
 3. Load balancers, proxy servers
 4. Virtualization and Containerization (Docker)
+5. Container Orchestration (Kubernetes)
+6. Cloud (AWS, Azure, GCP)
 
 A useful reddit comment: https://www.reddit.com/r/devops/comments/vw0t85/devops_bootcamp/ifo9g86/ 
 
