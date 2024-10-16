@@ -9,20 +9,20 @@ id: 1048699
 date: '2022-04-17T21:15:34Z'
 ---
 
-## Andrew's Notes
+## Andrew's Notes Start
 
 One of the main DevOps tasks is releasing the completed application versions.
 
-**Typical Software Release process:**
+## **Typical Software Release process:**
 
 Idea -> Requirements/Planning -> Code it -> Test it -> Build and package -> Deploy it -> Operating and Monitoring -> Making new versions that fix bugs, add features, and optimize performance
 
-**Software Versioning Naming Convention Example:**
+## **Software Versioning Naming Convention Example:**
 
 1(Major releases).4(Minor releases).2(Patch and small fixes)
 
 
-**Dev vs Ops:**
+## **Dev vs Ops:**
 
 DevOps is spurred by the need for continuous delivery and testing and being able to release updates on an endless, efficient cycle. It started as a framework when devs didn't understand infrastructure and networking and deployment. The operations side don't know how the app works. This is a manual, bureacratic process. 
 
@@ -30,8 +30,43 @@ DevOps is the framework that fulfilled the need of bridging these two siloes -- 
 
 There's also a conflict of interest in that devs want to release new features fast and operations wants stability. Security, application testing, are also aspects that get left out without DevOps.
 
-**What makes DevOps**
+## **What makes DevOps**
 ![image](https://github.com/user-attachments/assets/c548bf4a-492e-4ba6-8a76-e1721d501b26)
+
+While DevOps is the "mindset" or framework, in practice it's more the ability to use the DevOps tools that make one a DevOps engineer.
+
+## A list of tools to learn
+1. Code Repositories (Git)
+2. Linux (Operating systems, server administration)
+3. Load balancers, proxy servers
+4. Containerization (Docker)
+
+A useful reddit comment: https://www.reddit.com/r/devops/comments/vw0t85/devops_bootcamp/ifo9g86/ 
+
+"Do the following. You should be good to go.
+
+If you can, get certified in the following if you think it will help in your country/city . - One cloud Associate cert, CKA , Hasicorp's Terraform cert.
+
+Linux - Pick one of the YouTube videos to learn the basics and get your hands dirty by installing on a VM and play with it or use WSL2.
+Python - do this course https://www.edx.org/course/cs50s-introduction-to-programming-with-python
+Git - pick one from YouTube and understand how GIT works
+Cloud platform - PICK ONE - AWS ( Adrian Cantril's SAA course https://learn.cantrill.io/) or GCP ( Dan Sullivan's course - https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/) or Azure ( i don't know who is a good tutor for Azure).
+Jenkins and Ansible - https://courses.morethancertified.com/p/devops-in-the-cloud
+Ansible - https://www.udemy.com/course/learn-ansible/
+Terraform - https://courses.morethancertified.com/p/mtc-terraform or This youtube video https://youtu.be/V4waklkBC38
+Docker -https://www.udemy.com/course/docker-mastery/
+Kubernetes - https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
+Projects
+
+Cloud Resume Challenge - https://cloudresumechallenge.dev/docs/the-challenge/
+AWS + Terraform - https://courses.morethancertified.com/p/rfp-terraform
+Tons of small projects - https://github.com/100DaysOfCloud/100DaysOfCloudIdeas
+This playlist has many AWS miniprojects - https://www.youtube.com/c/LearnCantrill/playlists
+​
+
+I personally would avoid Bootcamps as they are expensive and they are just an overview on the individual topics. Spend the next 6-9 months on this and you should be good. Make sure you do the projects (at the very least, the cloud resume challenge) so that you have something to talk about in your interviews."
+
+## Andrew's Notes End
 
 
 ## Responsibilities of a DevOps Engineer
