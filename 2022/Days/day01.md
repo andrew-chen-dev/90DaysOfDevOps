@@ -32,7 +32,7 @@ Then the process cycles -- it's how DevOps software delivery can keep adding fea
 
 Tools for implementing CI/CD pipeline include Jenkins, Github actions, Gitlab CICD. You will need to learn how the CI/CD tools integrate with the other tools to test and deploy code. CI/CD tools like Jenkins automatically deploy the application
 
-IaC (Infrastructure as Code) is also a concept to be familiar with: Using code to provision and manage infrastructure. If one of the below environments goes down, you want to be able to easily replicate the infrastructure through code.
+IaC (Infrastructure as Code) is also a concept to be familiar with: Using code to provision and manage infrastructure. If one of the below environments goes down, you want to be able to easily replicate the infrastructure through code. Terraform, Ansible, and Puppet are examples of tools for IaC
 
 ![image](https://github.com/user-attachments/assets/3cdd9251-ddc9-472e-a440-4910d75e7cf2)
 
