@@ -38,6 +38,9 @@ IaC (Infrastructure as Code) is also a concept to be familiar with: Using code t
 
 DevOps is absolutely overwhelming! But that's ok: one step at a time. Before starting, I'm currently confident in networking and systems administration (and Googling :)). I at least know most of the concepts or have some passing familiarity with.
 
+![image](https://github.com/user-attachments/assets/864aaa14-a3aa-4232-be36-725b6b152fab)
+
+
 My goal for this course is to get a 
 1. firm understanding of the overall DevOps cycle
 2. how each tool fits into that cycle
