@@ -54,7 +54,7 @@ Configure Jenkins to do all the below automatically
 1. Development (Git Code Respository)
 2. Run Tests
 3. Package app (Build tools and package manager -- Maven and Gradle for Java, npm for Javascript)
-4. Build docker image for an application
+4. Build docker image for an application (orchestrate containers through K8s)
 5. Push to artifact repository (Nexus and Dockerhub)
 6. Deploy to server
 
