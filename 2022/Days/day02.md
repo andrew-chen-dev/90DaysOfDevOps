@@ -19,8 +19,7 @@ Idea -> Requirements/Planning -> Code it -> Test it -> Build and package -> Depl
 Software Versioning Naming Convention Example
 1(Major releases).4(Minor releases).2(Patch and small fixes)
 
-DevOps is spurred by the need for continuous delivery and testing and being able to release updates on an endless, efficient cycle 
-
+DevOps is spurred by the need for continuous delivery and testing and being able to release updates on an endless, efficient cycle. It started as a framework when devs didn't understand infrastructure and networking and deployment. The operations side don't know how the app works. This is a manual, bureacratic process. DevOps is the framework that fulfilled the need of bridging these two siloes -- a **clearly defined automatic process**.
 
 
 
