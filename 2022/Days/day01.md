@@ -28,7 +28,7 @@ It's symbolized by this infinity sign diagram, also known as the DevOps CI/CD pi
 7. Operating - Ansible, Docker (most popular container tool), K8s (container orchestration platform -- operating containers at scale)
 8. Monitoring and Observability - Nagios (Infrastructure monitoring and application monitoring)
 
-Then the process cycles -- it's how DevOps software delivery can keep adding features, keep testing, keep scaling, and keep being resilient to faults. What ties this all together is the efficient CI/CD pipeline and **automation**. Automation helps you run functional tests(does the code work?), regression tests (did the code break any preexisting code?), security tests, and performance tests. Automation (as I know from being a sysadmin) helps you get far ahead of fires before they start.
+Then the process cycles -- it's how DevOps software delivery can keep adding features, keep testing, keep scaling, and keep being resilient to faults. What ties this all together is the efficient CI/CD pipeline and **automation**. Automation helps you run AUTOMATIC functional tests(does the code work?), regression tests (did the code break any preexisting code?), security tests, and performance tests. Automation (as I know from writing scripts as a sysadmin) helps you get far ahead of fires before they start. 
 
 Tools for implementing CI/CD pipeline include Jenkins, Github actions, Gitlab CICD. You will need to learn how the CI/CD tools integrate with the other tools to test and deploy code.
 
