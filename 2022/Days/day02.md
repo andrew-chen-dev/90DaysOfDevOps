@@ -22,12 +22,16 @@ Idea -> Requirements/Planning -> Code it -> Test it -> Build and package -> Depl
 1(Major releases).4(Minor releases).2(Patch and small fixes)
 
 
-**Dev vs Ops**
+**Dev vs Ops:**
+
 DevOps is spurred by the need for continuous delivery and testing and being able to release updates on an endless, efficient cycle. It started as a framework when devs didn't understand infrastructure and networking and deployment. The operations side don't know how the app works. This is a manual, bureacratic process. 
 
 DevOps is the framework that fulfilled the need of bridging these two siloes -- a **clearly defined automatic process**.
 
 There's also a conflict of interest in that devs want to release new features fast and operations wants stability. Security, application testing, are also aspects that get left out without DevOps.
+
+**What makes DevOps**
+![image](https://github.com/user-attachments/assets/c548bf4a-492e-4ba6-8a76-e1721d501b26)
 
 
 ## Responsibilities of a DevOps Engineer
