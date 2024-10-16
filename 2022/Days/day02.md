@@ -48,6 +48,7 @@ While DevOps is the "mindset" or framework, in practice it's more the ability to
 A useful reddit comment: https://www.reddit.com/r/devops/comments/vw0t85/devops_bootcamp/ifo9g86/ 
 
 ![image](https://github.com/user-attachments/assets/34cabf36-7c3d-4a87-8e43-7727211f3d4a)
+Interesting thread from an entry level DevOps Engineer: https://www.reddit.com/r/devops/comments/1cc9qi6/devops_isnt_an_entry_level_role_from_an_entry/
 
 
 Here is the DevOps pipeline in (slightly) deeper detail.
