@@ -47,7 +47,7 @@ My goal for this course is to get a
 3. what tools I lack familiarity in
 
 
-
+A DevOps engineer isn't the one writing the code initially -- you're in charge of creating **automated processes for delivering the developed software**. While you need a good fundamental understanding of code, your job is to facilitate the software development CYCLE.
 
 
 ## Introduction - Day 1
