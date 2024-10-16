@@ -43,28 +43,8 @@ While DevOps is the "mindset" or framework, in practice it's more the ability to
 
 A useful reddit comment: https://www.reddit.com/r/devops/comments/vw0t85/devops_bootcamp/ifo9g86/ 
 
-"Do the following. You should be good to go.
+![image](https://github.com/user-attachments/assets/34cabf36-7c3d-4a87-8e43-7727211f3d4a)
 
-If you can, get certified in the following if you think it will help in your country/city . - One cloud Associate cert, CKA , Hasicorp's Terraform cert.
-
-Linux - Pick one of the YouTube videos to learn the basics and get your hands dirty by installing on a VM and play with it or use WSL2.
-Python - do this course https://www.edx.org/course/cs50s-introduction-to-programming-with-python
-Git - pick one from YouTube and understand how GIT works
-Cloud platform - PICK ONE - AWS ( Adrian Cantril's SAA course https://learn.cantrill.io/) or GCP ( Dan Sullivan's course - https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/) or Azure ( i don't know who is a good tutor for Azure).
-Jenkins and Ansible - https://courses.morethancertified.com/p/devops-in-the-cloud
-Ansible - https://www.udemy.com/course/learn-ansible/
-Terraform - https://courses.morethancertified.com/p/mtc-terraform or This youtube video https://youtu.be/V4waklkBC38
-Docker -https://www.udemy.com/course/docker-mastery/
-Kubernetes - https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
-Projects
-
-Cloud Resume Challenge - https://cloudresumechallenge.dev/docs/the-challenge/
-AWS + Terraform - https://courses.morethancertified.com/p/rfp-terraform
-Tons of small projects - https://github.com/100DaysOfCloud/100DaysOfCloudIdeas
-This playlist has many AWS miniprojects - https://www.youtube.com/c/LearnCantrill/playlists
-​
-
-I personally would avoid Bootcamps as they are expensive and they are just an overview on the individual topics. Spend the next 6-9 months on this and you should be good. Make sure you do the projects (at the very least, the cloud resume challenge) so that you have something to talk about in your interviews."
 
 ## Andrew's Notes End
 
