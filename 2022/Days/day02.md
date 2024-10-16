@@ -71,7 +71,7 @@ AWS, GCP, or Azure
 
 Learn a vendor for its specific load balancers, security, clustering, backup. At least the ones you need for DevOps. I've used all 3 for learning purposes and Azure in professional use.
 
-
+Today's takeaway and something I can actually implement: SRE principles at my current role. Set up monitoring, alerts, and logging on servers, VMs, etc.
 
 ## Andrew's Notes End
 
