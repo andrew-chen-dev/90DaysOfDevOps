@@ -44,6 +44,7 @@ While DevOps is the "mindset" or framework, in practice it's more the ability to
 6. Container Orchestration (Kubernetes)
 7. Cloud (AWS, Azure, GCP)
 
+**You will need to use these technologies in combination for projects.**
 A useful reddit comment: https://www.reddit.com/r/devops/comments/vw0t85/devops_bootcamp/ifo9g86/ 
 
 ![image](https://github.com/user-attachments/assets/34cabf36-7c3d-4a87-8e43-7727211f3d4a)
@@ -68,6 +69,8 @@ As the DevOps engineer, you are expected to configure this complete CI/CD pipeli
 AWS, GCP, or Azure
 
 Learn a vendor for its specific load balancers, security, clustering, backup. At least the ones you need for DevOps. I've used all 3 for learning purposes and Azure in professional use.
+
+
 
 ## Andrew's Notes End
 
