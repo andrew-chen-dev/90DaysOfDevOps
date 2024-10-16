@@ -16,8 +16,8 @@ One of the main DevOps tasks is releasing the completed application versions.
 **Typical Software Release process:**
 
 Idea -> Requirements/Planning -> Code it -> Test it -> Build and package -> Deploy it -> Operating and Monitoring -> Making new versions that fix bugs, add features, and optimize performance
-**
-Software Versioning Naming Convention Example:**
+
+**Software Versioning Naming Convention Example:**
 
 1(Major releases).4(Minor releases).2(Patch and small fixes)
 
