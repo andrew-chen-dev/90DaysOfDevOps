@@ -60,6 +60,10 @@ Configure Jenkins to do all the below automatically
 
 As the DevOps engineer, you are expected to configure this complete CI/CD pipeline.
 
+## Learn a cloud provider
+AWS, GCP, or Azure
+
+Learn a vendor for its specific load balancers, security, clustering, backup. At least the ones you need for DevOps. I've used all 3 for learning purposes and Azure in professional use.
 
 ## Andrew's Notes End
 
