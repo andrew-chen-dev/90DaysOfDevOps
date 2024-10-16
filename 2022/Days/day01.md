@@ -30,9 +30,18 @@ It's symbolized by this infinity sign diagram, also known as the DevOps CI/CD pi
 
 Then the process cycles -- it's how DevOps software delivery can keep adding features, keep testing, keep scaling, and keep being resilient to faults. What ties this all together is the efficient CI/CD pipeline and **automation**. Automation helps you run AUTOMATIC functional tests(does the code work?), regression tests (did the code break any preexisting code?), security tests, and performance tests. Automation (as I know from writing scripts as a sysadmin) helps you get far ahead of fires before they start. 
 
-Tools for implementing CI/CD pipeline include Jenkins, Github actions, Gitlab CICD. You will need to learn how the CI/CD tools integrate with the other tools to test and deploy code.
+Tools for implementing CI/CD pipeline include Jenkins, Github actions, Gitlab CICD. You will need to learn how the CI/CD tools integrate with the other tools to test and deploy code. CI/CD tools like Jenkins automatically deploy the application
 
-DevOps is absolutely overwhelming! But that's ok: one step at a time. I'm currently confident in networking and systems administration. I know how to Google :) My goal for this course is to get a firm understanding of the overall DevOps cycle, how each tool fits into that cycle, and what tools I lack familiarity in.
+IaC (Infrastructure as Code) is also a concept to be familiar with: Using code to provision and manage infrastructure. If one of the below environments goes down, you want to be able to easily replicate the infrastructure through code.
+
+![image](https://github.com/user-attachments/assets/3cdd9251-ddc9-472e-a440-4910d75e7cf2)
+
+DevOps is absolutely overwhelming! But that's ok: one step at a time. Before starting, I'm currently confident in networking and systems administration (and Googling :)). I at least know most of the concepts or have some passing familiarity with.
+
+My goal for this course is to get a 
+1. firm understanding of the overall DevOps cycle
+2. how each tool fits into that cycle
+3. what tools I lack familiarity in
 
 
 
