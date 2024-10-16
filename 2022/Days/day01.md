@@ -48,6 +48,8 @@ My goal for this course is to get a
 
 
 
+
+
 ## Introduction - Day 1
 
 Day 1 of our 90 days and adventure to learn a good foundational understanding of DevOps and tools that help with a DevOps mindset.
