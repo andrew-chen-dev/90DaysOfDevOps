@@ -9,6 +9,21 @@ id: 1048699
 date: '2022-04-17T21:15:34Z'
 ---
 
+## Andrew's Notes
+
+One of the main DevOps tasks is releasing the completed application versions.
+
+Typical Software Release process:
+Idea -> Requirements/Planning -> Code it -> Test it -> Build and package -> Deploy it -> Operating and Monitoring -> Making new versions that fix bugs, add features, and optimize performance
+
+Software Versioning Naming Convention Example
+1(Major releases).4(Minor releases).2(Patch and small fixes)
+
+DevOps is spurred by the need for continuous delivery and testing and being able to release updates on an endless, efficient cycle 
+
+
+
+
 ## Responsibilities of a DevOps Engineer
 
 Hopefully, you are coming into this off the back of going through the resources and posting on [Day1 of #90DaysOfDevOps](day01.md)
