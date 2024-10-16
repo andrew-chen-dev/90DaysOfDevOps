@@ -44,8 +44,7 @@ DevOps is absolutely overwhelming! But that's ok: one step at a time. Before sta
 My goal for this course is to get a 
 1. firm understanding of the overall DevOps cycle
 2. how each tool fits into that cycle
-3. what tools I lack familiarity in
-
+3. what tools I lack familiarity in - (https://www.youtube.com/watch?v=7l_n97Mt0ko description has a GREAT directory of tutorials for different tools)
 
 A DevOps engineer isn't the one writing the code initially -- you're in charge of creating **automated processes for delivering the developed software**. While you need a good fundamental understanding of code, your job is to facilitate the software development CYCLE.
 
