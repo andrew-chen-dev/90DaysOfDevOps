@@ -17,7 +17,7 @@ One of the main DevOps tasks is releasing the completed application versions.
 
 Idea -> Requirements/Planning -> Code it -> Test it -> Build and package -> Deploy it -> Operating and Monitoring -> Making new versions that fix bugs, add features, and optimize performance
 
-## **Software Versioning Naming Convention Example:**
+Software Versioning Naming Convention Example:
 
 1(Major releases).4(Minor releases).2(Patch and small fixes)
 
@@ -38,10 +38,11 @@ While DevOps is the "mindset" or framework, in practice it's more the ability to
 ## A list of tools to learn
 1. Code Repositories (Git)
 2. Linux (Operating systems, server administration)
-3. Load balancers, proxy servers
-4. Virtualization and Containerization (Docker)
-5. Container Orchestration (Kubernetes)
-6. Cloud (AWS, Azure, GCP)
+3. Terraform
+4. Load balancers, proxy servers
+5. Virtualization and Containerization (Docker)
+6. Container Orchestration (Kubernetes)
+7. Cloud (AWS, Azure, GCP)
 
 A useful reddit comment: https://www.reddit.com/r/devops/comments/vw0t85/devops_bootcamp/ifo9g86/ 
 
@@ -59,6 +60,7 @@ Configure Jenkins to do all the below automatically
 4. Build docker image for an application (orchestrate containers through K8s)
 5. Push to artifact repository (Nexus and Dockerhub)
 6. Deploy to server
+7. Monitor through Prometheous or Nagios
 
 As the DevOps engineer, you are expected to configure this complete CI/CD pipeline.
 
