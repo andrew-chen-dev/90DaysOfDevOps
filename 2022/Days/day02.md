@@ -39,11 +39,26 @@ While DevOps is the "mindset" or framework, in practice it's more the ability to
 1. Code Repositories (Git)
 2. Linux (Operating systems, server administration)
 3. Load balancers, proxy servers
-4. Containerization (Docker)
+4. Virtualization and Containerization (Docker)
 
 A useful reddit comment: https://www.reddit.com/r/devops/comments/vw0t85/devops_bootcamp/ifo9g86/ 
 
 ![image](https://github.com/user-attachments/assets/34cabf36-7c3d-4a87-8e43-7727211f3d4a)
+
+
+Here is the DevOps pipeline in (slightly) deeper detail.
+![image](https://github.com/user-attachments/assets/4be186a2-706f-4763-9bec-0cce3b5a4110)
+
+Configure Jenkins to do all the below automatically
+
+1. Development (Git Code Respository)
+2. Run Tests
+3. Package app (Build tools and package manager -- Maven and Gradle for Java, npm for Javascript)
+4. Build docker image for an application
+5. Push to artifact repository (Nexus and Dockerhub)
+6. Deploy to server
+
+As the DevOps engineer, you are expected to configure this complete CI/CD pipeline.
 
 
 ## Andrew's Notes End
