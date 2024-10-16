@@ -36,9 +36,9 @@ There's also a conflict of interest in that devs want to release new features fa
 While DevOps is the "mindset" or framework, in practice it's more the ability to use the DevOps tools that make one a DevOps engineer.
 
 ## A list of tools to learn
-1. Code Repositories (Git)
+1. Code Repositories (Git), Programming/scripting language: bash, shell, python, ruby, golang
 2. Linux (Operating systems, server administration)
-3. Infrastructure as code (Infrastructure provisioning: Terraform, Configuration Management: Ansible, Chef, or Puppet [I know some Ansible from when I was studying for my CCNA])
+3. Infrastructure as code (Infrastructure provisioning: Terraform, Configuration Management: Ansible, Chef, or Puppet)
 4. Load balancers, proxy servers
 5. Virtualization and Containerization (Docker)
 6. Container Orchestration (Kubernetes)
