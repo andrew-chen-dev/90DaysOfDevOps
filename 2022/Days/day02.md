@@ -38,7 +38,7 @@ While DevOps is the "mindset" or framework, in practice it's more the ability to
 ## A list of tools to learn
 1. Code Repositories (Git)
 2. Linux (Operating systems, server administration)
-3. Terraform
+3. Infrastructure as code (Infrastructure provisioning: Terraform, Configuration Management: Ansible, Chef, or Puppet [I know some Ansible from when I was studying for my CCNA])
 4. Load balancers, proxy servers
 5. Virtualization and Containerization (Docker)
 6. Container Orchestration (Kubernetes)
