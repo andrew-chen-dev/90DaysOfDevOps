@@ -9,12 +9,25 @@ id: 1048825
 ---
 ## Andrew's Notes Start
 
-## DevOps 
+## DevOps Day 3 - Application Development Cycle
 
+## Continuous Testing
 Build quality application tests. 
 ![image](https://github.com/user-attachments/assets/fd1f77e1-f5fc-49ba-a62a-291f1833f290)
 
 Manual testing still has a place for exploratory, user experience, beta testing for limited rollouts, etc
+
+## Continuous Integration
+Seeks to avoid merge hell. There can be big conflicts from multiple people working on the same thing at once. This is known as merge hell. Developers could submit merges where they edited the same code and caused interference or made different changes to the same line. This is an example of siloed devs with low intercommunication working on and breaking things recklessly. 
+
+Here's where CI comes in:
+
+Example: Alice is a dev that has added even a tiny bit of a working feature. She can submit that in the source control. Now Bob can come in and work on the code in a different place. It's unlikely they work on the same thing at the same time. They can communicate much if there ARE issues because the version only started having issues a day ago. Software development communication: if it hurts a little, do it often. That's way better than the alternative where teams work on different things and break each others code. Faster product! DevOps! Woohoo! 
+
+However, it's a lot of small changes where people constantly check in code into the codebase. There's new bugs, new compilation errors. This Alice and Bob scenario isn't perfect, and it needs a little more to make a complete system. The solution? Put some automation in! Have automated tests that are constantly watching the code for changes. It will build it, run it, and test it. If this automated testing fails, then Alice and Bob get notified about who made a change and what the change is. 
+
+
+No merge hell AND you can always get the most recent testable build -- automatically!
 
 ## DevOps Lifecycle - Application Focused
 
