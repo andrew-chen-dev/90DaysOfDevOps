@@ -7,6 +7,14 @@ cover_image: null
 canonical_url: null
 id: 1048825
 ---
+## Andrew's Notes Start
+
+## DevOps 
+
+Build quality application tests. 
+![image](https://github.com/user-attachments/assets/fd1f77e1-f5fc-49ba-a62a-291f1833f290)
+
+Manual testing still has a place for exploratory, user experience, beta testing for limited rollouts, etc
 
 ## DevOps Lifecycle - Application Focused
 
