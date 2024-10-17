@@ -41,18 +41,22 @@ Nagios monitors system resources and network services. You can use plugin script
 
 Nagios Agents -- NRPE
 
+
 Nagios Remote Plugin Executor allows remote scripts to be executed. It often is used to remotely monitor system resources like CPU usage.
 
 
 Nagios Agents -- NRDP
 
+
 Nagios Remote Data Processor allows flexible data transport for protocols like http and xml
+
 
 Nagios Agents -- NSClient++
 
+
 Windows machine monitoring. nagios polls the plugin on a specific port to get system resource information
 
-Geneos
+
 
 
 ## DevOps Lifecycle - Application Focused
