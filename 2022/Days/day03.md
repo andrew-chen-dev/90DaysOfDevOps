@@ -29,6 +29,32 @@ However, it's a lot of small changes where people constantly check in code into 
 
 No merge hell AND you can always get the most recent testable build -- automatically!
 
+## Continuous Monitoring
+
+![image](https://github.com/user-attachments/assets/101aa192-197b-491e-b315-4cb6b256c794)
+
+
+Nagios monitors system resources and network services. You can use plugin scripts for different languages
+![image](https://github.com/user-attachments/assets/1f0dc435-2aad-48e7-bdc3-5071b9833bc7)
+
+
+
+Nagios Agents -- NRPE
+
+Nagios Remote Plugin Executor allows remote scripts to be executed. It often is used to remotely monitor system resources like CPU usage.
+
+
+Nagios Agents -- NRDP
+
+Nagios Remote Data Processor allows flexible data transport for protocols like http and xml
+
+Nagios Agents -- NSClient++
+
+Windows machine monitoring. nagios polls the plugin on a specific port to get system resource information
+
+Geneos
+
+
 ## DevOps Lifecycle - Application Focused
 
 As we continue through these next few weeks we are 100% going to come across these titles (Continuous Development, Testing, Deployment, Monitor) over and over again, If you are heading towards the DevOps Engineer role then repeatability will be something you will get used to but constantly enhancing each time is another thing that keeps things interesting.
